@@ -3,7 +3,7 @@
 ## 📜 Contexto de la Misión
 ¡Atención equipo! El desarrollador Junior acaba de hacer un push directo a producción un viernes a las 4:55 PM y se fue de fin de semana. Nuestra aplicación crítica está caída y el pipeline de despliegue está en rojo. 
 
-El gerente nos está respirando en la nuca. Tienen **30 minutos** para encontrar los errores, arreglar el código y lograr que la aplicación levante correctamente y el pipeline pase a verde.
+El gerente nos está respirando en la nuca. Tienen **120 minutos** para encontrar los errores, arreglar el código y lograr que la aplicación levante correctamente y el pipeline pase a verde.
 
 ## 🛠️ Entorno del Laboratorio
 En este repositorio encontrarán los archivos clave que hacen parte de nuestra arquitectura de microservicios:
